@@ -65,8 +65,8 @@ techEcom is released under the [BSD-3-Clause License.](https://github.com/techEc
 
 Should you require any support in installation, setup and on how to effectively use techEcom for your eCommerce, you may seek help from the Spurt Community at community.techEcom.com, or should you require any further support, you may write to support@techEcom.com
 
-# ❯ About Piccosoft
-techEcom is developed by [Piccosoft Software Labs India (P) Limited,](http://www.piccosoft.com) which is primarily a Web and Mobile App Service Provider, and who have adopted the latest and niche technologies for their Development services. The team comprises of experienced Developers, who are technology enthusiasts and passionate about innovations.
+# ❯ About TechExprt
+techEcom is maintained by [TechExprt Consulting,](http://www.techexprt.com) which is primarily a Web and Mobile App Service Provider, and who have adopted the latest and niche technologies for their Development services. The team comprises of experienced Developers, who are technology enthusiasts and passionate about innovations.
 
 
 # techEcom
